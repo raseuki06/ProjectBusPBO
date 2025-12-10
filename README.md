@@ -26,3 +26,12 @@ Program ini mensimulasikan proses naik dan turun penumpang pada sebuah bus denga
   - TestBus.java : Class utama yang berisi menu dan logika interaksi pengguna
   - package.bluej : File konfigurasi project BlueJ
   - README.md : Dokumentasi project
+
+ 4. Konsep OOP yang Diterapkan
+- Class dan Object: Penggunaan beberapa class dengan tanggung jawab berbeda.
+- Encapsulation: Penyembunyian data menggunakan atribut private serta penggunaan getter/setter.
+- Control Flow: Penggunaan logika pengkondisian dalam menentukan penempatan penumpang.
+- Array Management: Penyimpanan dan pengelolaan data penumpang pada struktur array.
+
+
+
